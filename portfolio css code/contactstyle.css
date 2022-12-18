@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(208, 217, 193);
+    color: #223601;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a.menu{
+   
+    align-items: center;
+    justify-content: right;
+    /*background-color: rgb(105, 171, 29);*/
+    color: #223601;
+    padding: 5px;
+    text-decoration: none;
+    float: right;
+    font-size: 20px;
+    /*font-weight: ;*/
+}
+
+img[src="PortfolioLogo_1.png"] {
+    border: none;
+    background: transparent;
+    box-shadow: none;
+  }
+
+hr{
+    border: 2px solid #223601;
+    border-radius: 5px; 
+}
+a.email{
+    color: #223601;
+    font-style: normal;
+}
+
+a.socialmedia{
+    text-decoration: none;
+}
